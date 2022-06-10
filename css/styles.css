@@ -1,0 +1,73 @@
+.logo{
+    text-align: center;
+    margin-bottom: 5rem;
+    weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.logo-home{
+    text-align: center;
+    weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.logo-home span{
+    color: green;
+}
+
+
+.logo span{
+    color: green;
+}
+
+#login {
+    background: rgb(110, 227, 145);
+}
+
+#app{
+    background: rgb(110, 227, 145);
+}
+
+header{
+    border-bottom: 1px solid #bebebc;
+    padding: 5px;
+    background-color: #ffffff;
+}
+
+.color-secundary{
+    color: #4c79d3;
+}
+
+.button-login{
+    border-radius: 10px;
+    background-color:#0dba0d;
+    color: #ffffff;
+    width: 50%;
+    margin: 0 25%;
+
+}
+
+.button-login:hover, .button-default:hover{
+    background-color: #03740b;
+    color: #ffffff;
+}
+
+.logout {
+    min-width: 5rem !important;
+}
+
+.menu {
+    margin-right: 20px;
+}
+
+.container-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+
+
